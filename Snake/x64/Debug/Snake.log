@@ -1,0 +1,25 @@
+﻿Source.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function "void __cdecl CheckSDLError(int)" (?CheckSDLError@@YAXH@Z)
+Source.obj : error LNK2019: unresolved external symbol SDL_ClearError referenced in function "void __cdecl CheckSDLError(int)" (?CheckSDLError@@YAXH@Z)
+Source.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "bool __cdecl Init(void)" (?Init@@YA_NXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_SetWindowTitle referenced in function "void __cdecl checkForCollsions(class Snake *,class Apple *)" (?checkForCollsions@@YAXPEAVSnake@@PEAVApple@@@Z)
+Source.obj : error LNK2019: unresolved external symbol SDL_DestroyWindow referenced in function "void __cdecl Cleanup(void)" (?Cleanup@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_GL_SetAttribute referenced in function "bool __cdecl SetOpenGLAttributes(void)" (?SetOpenGLAttributes@@YA_NXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_GL_GetAttribute referenced in function "void __cdecl PrintSDL_GL_Attributes(void)" (?PrintSDL_GL_Attributes@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_GL_CreateContext referenced in function "bool __cdecl Init(void)" (?Init@@YA_NXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_GL_SetSwapInterval referenced in function "bool __cdecl Init(void)" (?Init@@YA_NXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_GL_SwapWindow referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_GL_DeleteContext referenced in function "void __cdecl Cleanup(void)" (?Cleanup@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "void __cdecl RunGame(void)" (?RunGame@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "void __cdecl RunGame(void)" (?RunGame@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "void __cdecl RunGame(void)" (?RunGame@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_RenderFillRect referenced in function "void __cdecl drawApple(class Apple *)" (?drawApple@@YAXPEAVApple@@@Z)
+Source.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function "void __cdecl RunGame(void)" (?RunGame@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_GetTicks referenced in function "void __cdecl RunGame(void)" (?RunGame@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "bool __cdecl Init(void)" (?Init@@YA_NXZ)
+Source.obj : error LNK2019: unresolved external symbol SDL_Quit referenced in function "void __cdecl Cleanup(void)" (?Cleanup@@YAXXZ)
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+H:\Projects\Cpp\Snake\Dependencies\SDL2\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+H:\Projects\Cpp\Snake\Dependencies\SDL2\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+H:\Projects\Cpp\Snake\Dependencies\GLEW\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+H:\Projects\Cpp\Snake\x64\Debug\Snake.exe : fatal error LNK1120: 21 unresolved externals

@@ -1,0 +1,38 @@
+﻿  Source.cpp
+h:\projects\cpp\snake\snake\snake.h(24): warning C4091: 'static ': ignored on left of 'const Snake::<unnamed-enum-Up>' when no variable is declared
+h:\projects\cpp\snake\snake\apple.h(44): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+h:\projects\cpp\snake\snake\apple.h(45): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(95): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(96): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(113): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(114): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(115): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(116): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(118): warning C4244: 'argument': conversion from 'short' to 'Uint8', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(124): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(125): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(126): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(127): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(134): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(135): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(136): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(137): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(143): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(144): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(145): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(146): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(155): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(156): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(157): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(158): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(163): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(164): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(165): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(171): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(172): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(173): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(174): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\projects\cpp\snake\snake\source.cpp(190): warning C4018: '<': signed/unsigned mismatch
+  Snake.vcxproj -> H:\Projects\Cpp\Snake\Debug\Snake.exe
