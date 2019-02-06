@@ -23,7 +23,8 @@ From ``Debug`` dictionary download ``SDL2.dll`` and ``Snake.exe`` place it in th
 # About the code
 The game itself has two objects Apple and Snake in which are stored all positions data. All the magic happends in RunGame function. I think the code is pretty much self explanatory.
 There is one interesting thing about rainbow mode and that is how it works. The Snake colors are being changed every frame that fast they make an illusion of rainbow.
-Picture to show how it looks like in real life
+Picture to show how it looks like in real life:
+
 ![Snake Rainbow](./Ext/rainbow-true.jpg)
 
 
