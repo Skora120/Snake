@@ -10,7 +10,7 @@ The Sanke  was intened to be classic snake game but I wanted to make it more dyn
 Of course snake is forced to move once time per half a second but when player use controlls it make next move much time faster.
 
 # How to play
-From ``Debug`` dictionary download ``SDL2.dll`` and ``Snake.exe`` place it in the same dictionary then just run ``Snake.exe``
+From ``Debug`` directory download ``SDL2.dll`` and ``Snake.exe`` place it in the same directory then just run ``Snake.exe``
 
 ## Controlls
 1. To move use either wsad or arrow keys.
